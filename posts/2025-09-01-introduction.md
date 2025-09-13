@@ -38,6 +38,8 @@ Some of the tasks such as data entry, bookkeeping, payment processing, and data 
 This is substantiated by the statistic that by 2032, the AI in finance market is projected to grow from $712.4 million to $12.3 billion, reflecting a 33% annual growth rate, taken from the author Shalwa, on the blog site, artsmart.ai. As this is a momentous increase per year, we can see that AI’s expanse into jobs is highly unlikely to faulter. Especially, as AI uses perceptive math algorithms to predict stock prices and sales of companies. From this, it gives companies an arguably concrete picture on how they need to react in the future. 
 
 Despite this, as of now, the implementation of AI in finance is rather expensive, leading to large cooperations having a monopoly over the financial market more notably. This means startup firms are on the backfoot, possibly causing a financial divide. Overall, AI could make a profound influence on the financial markets in the years to come, even more so when it becomes more financially viable for startup firms
+
+
 ---
 
 ## Key insights so far
