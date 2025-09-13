@@ -8,7 +8,7 @@ The AlphaFold project by Deepmind has used AI to help predict over 200 million p
 
 However, critics may argue this could potentially create a skill gap between software engineering professionals. From these breakthroughs, according to McKinsey’s latest State of AI survey, 78 percent of organizations now report using AI in at least one business function—up from 72 percent earlier in that same year and just 55 percent a year before. This demonstrates to people how AI could be worth that risk, as they are pouring millions of pounds into these AI tools for the additional benefits it has on the economic growth of their company. 
 
-But, will this 'tool' remain at our command? Perhaps there could be a day where AI threatens the existence of the entire human population. We have already seen the negative effects creeping into our society: job displacement, deepfakes and cyberattacks to list a few. There are many discussions between the largest companies and governments recently on how we regulate such a powerful machine while utilising it to its fullest potential. Given AI’s impact on our future, this blog will explore how society should approach regulating and controlling AI.
+But, will this 'tool' remain at our command? Perhaps there could be a day where AI threatens the existence of the entire human population. We have already seen the negative effects creeping into our society: job displacement, deepfakes and cyberattacks to list a few. There have been many discussions between the largest companies and governments recently on how we regulate such a powerful machine while utilising it to its fullest potential. Given AI’s impact on our future, this blog will explore how society should approach regulating and controlling AI.
 
 ---
 
