@@ -42,10 +42,8 @@ Despite this, as of now, the implementation of AI in finance is rather expensive
 
 ---
 
-## Key insights so far
-- Point 1
-- Point 2
-- Point 3
+## What would be the result of AI taking over?
+
 
 ---
 
