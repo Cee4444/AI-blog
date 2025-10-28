@@ -24,4 +24,3 @@ paginate: 5       # number of posts per page
 show_reading_time: true
 markdown: kramdown
 
-show_excerpts: false
