@@ -2,7 +2,7 @@
 title: AI Blog
 description: An AI blog influenced and inspired by David l.Shrier and his book called Basic AI where i discuss its impacts..
 theme: jekyll-theme-slate 
-baseurl: "/First-Blog/"      
+baseurl: "/AI-blog/"      
 url: "https://cee4444.github.io/First-Blog/"
 
 # Navigation
