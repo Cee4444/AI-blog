@@ -2,8 +2,8 @@
 title: AI Blog
 description: An AI blog influenced and inspired by David l.Shrier and his book called Basic AI where i discuss its impacts..
 theme: minima   
-baseurl: ""       # leave blank if deploying to username.github.io/repo-name
-url: "https://username.github.io/repo-name
+baseurl: "/First-Blog/"      
+url: "https://cee4444.github.io/First-Blog/"
 
 # Navigation
 nav:
