@@ -76,6 +76,7 @@ AI can also save lives through the transformation of physical infrastructure. By
 Moreover, the accuracy of weather models may be greatly improved using AI. AI systems can be trained on large datasets of previous weather patterns to generate highly accurate predictive models of extreme weather events. This ability would allow the anticipation of dangerous conditions beforehand, allowing populations to be either properly prepared or swiftly evacuated. As a result, countless lives could be saved, and the healthcare costs from injuries due to the potential disaster could be reduced.  
 
 Finally, AI could lead us to an earnest future where peoples’ lives are improved due to these essential parts of society that can be further developed to increase their own successes. AI may increase the speed of these developments and open new doors to a more positive and long-lasting future. Evidently, helping us becoming a further prosperous species that could have less deaths for both humans and other animals.
+
 ---
 
 ## My reflection
