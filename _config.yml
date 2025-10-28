@@ -16,8 +16,8 @@ nav:
 
 # Author info
 author:
-  name: Oliver Reeves
-  email: oreeves135@gmail.com
+  name: "Oliver Reeves"
+  email: "oreeves135@gmail.com"
 
  # Optional settings
 paginate: 5       # number of posts per page
