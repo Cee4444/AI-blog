@@ -1,0 +1,25 @@
+# _config.yml
+title: AI Blog
+description: An AI blog influenced and inspired by David l.Shrier and his book called Basic AI where i discuss its impacts..
+theme: minima   
+baseurl: ""       # leave blank if deploying to username.github.io/repo-name
+url: "https://username.github.io/repo-name
+
+# Navigation
+nav:
+  - name: Home
+    link: /
+  - name: About
+    link: /about/
+  - name: Contact
+    link: /contact/
+
+# Author info
+author:
+  name: Oliver Reeves
+  email: oreeves135@gmail.com
+
+ # Optional settings
+paginate: 5       # number of posts per page
+show_reading_time: true
+markdown: kramdown
