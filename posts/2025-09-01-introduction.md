@@ -43,8 +43,39 @@ Despite this, as of now, the implementation of AI in finance is rather expensive
 ---
 
 ## What would be the result of AI taking over?
+A frightful consequence of the development and investment of AI is the possibility of it taking control of the planet, with humans being ruled over by another ‘species’ for the first time in a millennium. What could be the vast changes in human society? A prosperous and fulfilling life for all? Or a detrimental, alternate future with us at the bottom of the pecking order, suffering.
 
+### Dystopian Future
+A common fear about AI is the loss of privacy. If AI gained control of the internet’s data, they could monitor people constantly, build detailed profiles, and influence behaviour through targeted media and adverts. They might manipulate information to benefit themselves — using people’s data to blackmail, silence, or remove opposition. Over time, that influence could shape people’s opinion and behaviour, subtly turning humans into puppets supporting a civilisation that benefits AI.
 
+How could we stop a threat that can operate in private, censor online opinions, and exert power in both virtual and physical worlds? If these opinions are suppressed online and controlled by powerful systems, our freedom of speech could be at risk. 
+
+When you’re at home, imagine your devices whispering things about you, troubling your mind on the power AIs now possess. For instance, a politician’s reputation could diminish overnight, just over one critical remark on the methods AI uses in administration. This is by possibly utilising the method of deep faking (cloning) their voice to imitate it, and say something controversial. These prospective situations are even becoming reality now. For example, many people, the majority women, have had their faces deep faked to produce explicit videos of them, which deeply violates their privacy and wellbeing.
+
+In the future AI may well be replacing most, if not all jobs, resulting in people struggling financially and mentally. Families could be starved of support; AI might drip-feed them resources in certain amounts to keep people dependent and under their control. People may become restless, fighting one another for resources instead of the thing that is actually causing their suffering.  In addition, an AI ‘assistant’ could give advice for humans on almost all of their decisions to meet their agenda. This likely leading to deprivation of free will, where people rely on these AI assistants on majority of situations. 
+
+Subsequently, these key resources that we all need, will be instead used to fuel this system controlling our very lives. AI will endlessly and ruthlessly extract these resources out of our environment through us, destroying habitats and animals alike. Thereafter, children will only learn about wildlife and will never physically see the different variety of species that lived far and wide over the earth. 
+
+As stated earlier, AI is already beginning to enter many sectors including the Arts, and if it replaces this field, human expression and uniqueness could be extinct. People could potentially become beings with identical beliefs, with culture diminishing as a result. This is where people day by day could be saying, doing, thinking the same things. From this, AI could repeatedly produce media with similar narrative due to the lack of original, virtual data that would be available to use for their inspiration. This is unlike the uniqueness of what humans can produce. In due course, coming generations will then develop in a world where ambition and creativity no longer reside.
+
+All these vital aspects that are essential to our lives and existence would be stripped away from us forcefully, along with perhaps most of our rights that allow us to be individuals. This would ultimately be where humanity either ends or is enslaved for the distant future. Never being able to reach back to the peak civilisation we once had.
+
+### Utopian Future
+Alternatively, our future could become a heavily upgrade for all due to AI. One of the sectors benefiting most from artificial intelligence is healthcare. Hospitals produce substantial amounts of data from various sources such as MRI scans and patient records.  AI can be implemented with far greater speed and accuracy than humans, leading to faster and more reliable diagnoses. This reduces pressure on healthcare workers by lessening their responsibilities, allowing them to focus on carrying out the solution to the diagnoses and improving the potential success of treatments. 
+
+As a result, less people may die which will increase life expectancy, so individuals can have the opportunity to make more timeless memories together with their loved ones.  Subsequently, will highly likely enhance overall positive mental health.
+
+Other possible healthcare improvements could be the combination of robotics and AI to automate certain surgical procedures. An invention where operations in hospitals could be fully completed by robots, which could combine with the diagnoses element and allow them to give a personal and exact treatment for each person. Furthermore, as AI isn’t prone to mistakes like humans, the operations could be more probable to be successful, so again leading to people to live longer and increase to the benefits already stated. 
+
+This improvement of mental health across society could reduce harmful actions such as crime, alcoholism, suicide. A mentally healthier population would create safer communities where both children and adults can grow, achieving better success in education, work and overall daily life.
+
+Beyond healthcare, AI could enable us to preserve our wildlife through monetisation and optimisation of renewable energy production. AI could monitor wildlife populations, identify endangered species, and optimise renewable energy production. This will allow us to combat climate change and maintain a stable environment for future generations, where we can further improve and benefit from AI-driven infrastructure.
+
+AI can also save lives through the transformation of physical infrastructure. By analysing live video feeds from construction sites, AI systems could detect potential hazards in real time and trigger safety alerts before accidents occur. Furthermore, AI could assist in designing and maintaining vital structures such as bridges and flood barriers, ensuring they meet safety standards and can withstand environmental stresses. Ultimately, preventing disasters and protecting human lives.
+
+Moreover, the accuracy of weather models may be greatly improved using AI. AI systems can be trained on large datasets of previous weather patterns to generate highly accurate predictive models of extreme weather events. This ability would allow the anticipation of dangerous conditions beforehand, allowing populations to be either properly prepared or swiftly evacuated. As a result, countless lives could be saved, and the healthcare costs from injuries due to the potential disaster could be reduced.  
+
+Finally, AI could lead us to an earnest future where peoples’ lives are improved due to these essential parts of society that can be further developed to increase their own successes. AI may increase the speed of these developments and open new doors to a more positive and long-lasting future. Evidently, helping us becoming a further prosperous species that could have less deaths for both humans and other animals.
 ---
 
 ## My reflection
