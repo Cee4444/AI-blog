@@ -5,11 +5,16 @@ title: Home
 
 # Home Page
 
-Welcome to my website where I post blogs that discuss different trending topcis on technonlogy and other surrounding fields. 
 
 Here are my latest posts:
 
 ---
+
+
+
+
+
+
 
 <ul>
   {% for post in site.posts %}
@@ -19,6 +24,15 @@ Here are my latest posts:
     </li>
   {% endfor %}
 </ul>
+
+
+
+
+
+
+
+
+
 
 
 ---
