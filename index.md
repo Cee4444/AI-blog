@@ -6,12 +6,13 @@ title: Home
 # Blog Home Page
 
 Welcome to my website where I post blogs that discuss different trending topcis on technonlogy and other surrounding fields. 
+
 Here are my latest posts:
 
 ---
 
 <ul>
-  {% assign pages_list = site.pages | where_exp:"p","p.path contains 'posts'" | sort: "date" | reverse %}
+  {% assign pages_list = site.pages | where_exp:"p","p.path contains 'blog_posts'" | sort: "date" | reverse %}
   {% for page in pages_list %}
     <li>
       <a href="{{ page.url | relative_url }}">{{ page.title }}</a><br>
