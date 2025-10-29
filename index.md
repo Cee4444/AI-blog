@@ -11,10 +11,13 @@ Here are my latest posts:
 ---
 
 <ul>
-  {% for post in site.posts %}
+  {% assign pages_list = site.pages | where_exp:"p","p.path contains 'posts'" | sort: "date" | reverse %}
+  {% for page in pages_list %}
     <li>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a><br>
-      <small>{{ post.date | date: "%B %d, %Y" }}</small>
+      <a href="{{ page.url | relative_url }}">{{ page.title }}</a><br>
+      {% if page.date %}
+      <small>{{ page.date | date: "%B %d, %Y" }}</small>
+      {% endif %}
     </li>
   {% endfor %}
 </ul>
