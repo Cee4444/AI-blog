@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-# Blog Home Page
+# Home Page
 
 Welcome to my website where I post blogs that discuss different trending topcis on technonlogy and other surrounding fields. 
 
