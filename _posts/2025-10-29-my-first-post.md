@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "My First Blog Post"
+title: "AI Blog"
 date: 2025-10-29
 ---
 
