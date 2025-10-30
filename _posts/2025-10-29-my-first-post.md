@@ -90,13 +90,8 @@ Finally, AI could lead us to an earnest future where peoples’ lives are improv
 Overall, I think that the integration of AI in human society should be carefully managed using government policy so we can limit the negative results that AI can cause, all while allowing the freedom of utilising AI to boost the human race to new profound heights. I believe the best course of action is for human society to move forward to a world where humans work with AI in harmony, benefitting from each other’s strengths to create solutions together to solve the problems we face.
 
 ---
-## My reflection
-This section is where I give my own opinion, link ideas together, or highlight what I agree/disagree with.  
+## Final Notes
+I wrote this blog after reading the book, Basic AI, written by David L.Shrier as I wanted to learn more about AI's expanding role in human society and what that means for us.
+I hope you enjoyed this insight and thank you for reading.
 
 ---
-
-## Next steps
-In future posts, I’ll cover:
-- [ ] A breakdown of Shrier’s main arguments  
-- [ ] How AI interacts with maths concepts I’m studying  
-- [ ] Small coding projects that test these ideas  
